@@ -1,5 +1,7 @@
 # okgrow:promise [![Build Status](https://secure.travis-ci.org/okgrow/meteor-promise.png?branch=master)](https://travis-ci.org/okgrow/meteor-promise)
 
+**WARNING:** As noted in https://github.com/okgrow/meteor-promise/issues/6 - okgrow:promise is deprecated in favor of the deanius:meteor-promise package at https://github.com/deanius/meteor-promise
+
 # Demo
 The demo-enabled README is at http://okgrow-promise.meteor.com/
 
